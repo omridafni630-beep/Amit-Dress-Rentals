@@ -1,0 +1,6 @@
+{
+  "name": "Amit Night Dresses",
+  "description": "A premium e-commerce site for Amit Night Dresses, featuring elegant UI, product hover interactions, and a quick cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
